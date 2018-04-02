@@ -258,5 +258,5 @@ note:
 
 ---
 
-<!-- .slide: class="center" data-background="#015571" -->
-# Thank You!
+<!-- .slide: data-background-video="images/thankyou_elastic.mp4" -->
+## Thank You! <!-- .element: class="jumbotron" -->
