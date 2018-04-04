@@ -205,7 +205,7 @@ class MyPlugin {
 - Goodbye "optimizing bundles"
 
 note:
-- New platgorm for plugins
+- New platform for plugins
   - Tighter plugin integrations
   - Down with exact version matching!
   - Goodbye "optimizing bundles"
